@@ -104,5 +104,5 @@
 	</a>
 </p>
 <p style="margin-top: 20px;">&nbsp;
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasenjit-26&show_icons=true&locale=en" alt="prasenjit-26" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasenjit-26&show_icons=true&locale=en&line_height=27&count_private=true&include_all_commits=true" alt="prasenjit-26" />
 </p>
