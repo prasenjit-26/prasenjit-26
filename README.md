@@ -106,3 +106,5 @@
 <p style="margin-top: 20px;">&nbsp;
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasenjit-26&show_icons=true&locale=en&line_height=27&count_private=true&include_all_commits=true" alt="prasenjit-26" />
 </p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prasenjit-26&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
