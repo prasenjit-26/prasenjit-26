@@ -9,7 +9,7 @@
 	</a>
 </p>
 
-- 👨‍💻 All of my projects are available at [https://prasenjit-26.github.io/](https://prasenjit-26.github.io/)
+- 👨‍💻 All of my projects are available at [https://prasenjiit.netlify.app/](https://prasenjiit.netlify.app/)
 
 - 💬 Ask me about **react, node.js redux**
 
